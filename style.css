@@ -1,0 +1,18 @@
+.li{
+    text-decoration: none;
+    font-weight: 400;
+}
+.li:hover{
+    color: orange;
+    transition: all 1s;
+}
+.par{
+    font-size: 15px;
+}
+.h{
+    font-size: 20px;
+}
+.text-info:hover{
+    color: orange;
+    transition: all 1s;
+}
